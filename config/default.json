@@ -1,0 +1,6 @@
+{
+  "port": 8000,
+  "jwtSecret": "dima mern",
+  "mongoUri": "mongodb+srv://dima:dima@cluster0-fdjks.mongodb.net/app?retryWrites=true&w=majority",
+  "baseUrl": "http://loacalhost:4000"
+}

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0eb93f62-4a79-48db-b1ac-fe66440dc724" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZkaAm1DJv2x7aFMITWG64AFzBZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.9.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="NodeJSConfigurationType" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0eb93f62-4a79-48db-b1ac-fe66440dc724" name="Default Changelist" comment="" />
+      <created>1585385404197</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585385404197</updated>
+      <workItem from="1585385405408" duration="6227000" />
+      <workItem from="1585393314172" duration="9500000" />
+      <workItem from="1585406126955" duration="957000" />
+      <workItem from="1585410081165" duration="25241000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585477652745">
+      <screen x="0" y="23" width="1440" height="817" />
+    </state>
+    <state x="184" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.815@0.23.1440.815" timestamp="1585386671826" />
+    <state x="184" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.817@0.23.1440.817" timestamp="1585477652745" />
+    <state x="432" y="226" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585469892132">
+      <screen x="0" y="23" width="1440" height="817" />
+    </state>
+    <state x="432" y="226" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.815@0.23.1440.815" timestamp="1585395317623" />
+    <state x="432" y="226" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.817@0.23.1440.817" timestamp="1585469892132" />
+    <state x="408" y="167" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1585406084030">
+      <screen x="0" y="23" width="1440" height="815" />
+    </state>
+    <state x="408" y="167" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1440.815@0.23.1440.815" timestamp="1585406084030" />
+    <state x="395" y="129" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585392858185">
+      <screen x="0" y="23" width="1440" height="815" />
+    </state>
+    <state x="395" y="129" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.815@0.23.1440.815" timestamp="1585392858185" />
+    <state x="120" y="23" key="SettingsEditor" timestamp="1585387982295">
+      <screen x="0" y="23" width="1440" height="815" />
+    </state>
+    <state x="120" y="23" key="SettingsEditor/0.23.1440.815@0.23.1440.815" timestamp="1585387982295" />
+  </component>
+</project>
